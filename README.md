@@ -1,6 +1,9 @@
 # Rm-loading
 
-This README outlines the details of collaborating on this Ember addon.
+`ember install rm-loading` to have the elusive rm loading bars on your
+project.
+
+![Rm Loading Bars](spinner-preview.gif)
 
 ## Installation
 

@@ -1,0 +1,1 @@
+export { default } from 'rm-loading/components/rm-loading/component';
